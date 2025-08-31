@@ -1,4 +1,4 @@
-package Examen
+package examen
 
 // Lo que hice:
 //class Persona {

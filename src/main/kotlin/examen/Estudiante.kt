@@ -1,4 +1,4 @@
-package Examen
+package examen
 
 class Estudiante(val codigo: String, val nombre: String)
 fun main() {
